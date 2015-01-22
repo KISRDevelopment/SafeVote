@@ -1,2 +1,1 @@
-# SafeVote
-Safe Voting system for the innovation concourse
+Safe Voting App for innovation concourse
